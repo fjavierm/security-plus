@@ -36,3 +36,5 @@ I hope, if you have landed here, this document can be of any use for you.
 * [Norton](https://us.norton.com)
 * [Wikipedia](https://en.wikipedia.org)
 * [Microsoft](https://docs.microsoft.com)
+* [OWASP](https://owasp.org)
+* [Acunetix](https://www.acunetix.com)
