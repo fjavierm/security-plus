@@ -35,3 +35,4 @@ I hope, if you have landed here, this document can be of any use for you.
 * CompTIA Security+ Certification Exam Objectives (SY0-601)
 * [Norton](https://us.norton.com)
 * [Wikipedia](https://en.wikipedia.org)
+* [Microsoft](https://docs.microsoft.com)

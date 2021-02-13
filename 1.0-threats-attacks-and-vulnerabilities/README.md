@@ -4,3 +4,6 @@
 
 * [1.2 Given a scenario, analyze potential indicators
 to determine the type of attack](./1.2-given-a-scenario-analyze-potential-indicators-to-determine-the-type-of-attack.md)
+
+* [1.3 Given a scenario, analyze potential indicators
+associated with application attacks](./1.3-given-a-scenario-analyze-potential-indicators-associated-with-application-attacks.md)
