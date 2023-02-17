@@ -2,8 +2,7 @@
 
 This is just a WIP, the final version of these materials will be found on my [blog](https://binaricoders.dev)](https://binaricoders.dev). These are just the drafts for the different articles.
 
-This repository is not going to be a coding repository. The purpose of this repository is to store my notes about the '
-CompTIA Security+ SY0-601' learning and study.
+This repository is not going to be a coding repository. The purpose of this repository is to store my notes about the 'CompTIA Security+ SY0-601' learning and study.
 
 The reason to use this format instead of the usual blog format, [Binary Coders]((https://binaricoders.dev)), is that
 this is going to be a live project, I wanted to be free to edit, change or redo the different sections and be able to
