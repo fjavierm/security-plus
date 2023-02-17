@@ -1,6 +1,6 @@
 # CompTIA Security+ SY0-601
 
-This is just a WIP, the final version of these materials will be found on my [blog](https://binaricoders.dev)](https://binaricoders.dev). These are just the drafts for the different articles.
+This is just a WIP, the final version of these materials will be found on my [blog](https://binaricoders.dev). These are just the drafts for the different articles.
 
 This repository is not going to be a coding repository. The purpose of this repository is to store my notes about the 'CompTIA Security+ SY0-601' learning and study.
 
