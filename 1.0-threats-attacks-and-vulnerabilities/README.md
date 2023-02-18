@@ -7,3 +7,5 @@
 * [1.3 Given a scenario, analyze potential indicators associated with application attacks](./1.3-given-a-scenario-analyze-potential-indicators-associated-with-application-attacks.md)
 
 * [1.4 Given a scenario, analyze potential indicators associated with network attacks](./1.4-given-a-scenario-analyze-potential-indicators-associated-with-network-attacks.md)
+
+* [1.5 Explain different threat actors, vectors, and intelligence sources](./1.5-explain-different-threat-actors-vectors-and-intelligence-sources.md)
