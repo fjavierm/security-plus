@@ -19,6 +19,7 @@ I hope, if you have landed here, this document can be of any use to you.
 | 3.0 Implementation                        | 25%                       |
 | 4.0 Operations and Incident Response      | 16%                       |
 | 5.0 Governance, Risk, and Compliance      | 14%                       |
+| **Total**                                 | **100%**                  |
 
 ## Sections
 
@@ -30,9 +31,5 @@ I hope, if you have landed here, this document can be of any use to you.
 
 ## Information references
 
-* CompTIA Security+ Certification Exam Objectives (SY0-601)
-* [Norton](https://us.norton.com)
-* [Wikipedia](https://en.wikipedia.org)
-* [Microsoft](https://docs.microsoft.com)
-* [OWASP](https://owasp.org)
-* [Acunetix](https://www.acunetix.com)
+* CompTIA Security+ SY0-601 Exam Objectives (3.0)
+* ChatGPT
