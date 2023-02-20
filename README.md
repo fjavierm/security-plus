@@ -33,3 +33,4 @@ I hope, if you have landed here, this document can be of any use to you.
 
 * CompTIA Security+ SY0-601 Exam Objectives (3.0)
 * ChatGPT
+* Mike Meyers' CompTIA Security+ Certification Guide, Third Edition (Exam SY0-601)
