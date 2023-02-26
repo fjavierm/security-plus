@@ -1,3 +1,6 @@
 ## Text Editor / IDE
 # IntelliJ IDEA
 .idea
+
+# The All file should not be upload to the repo. It's a working file
+security-plus-sy0-601-all.md
