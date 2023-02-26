@@ -10,6 +10,19 @@ write this in a non-linear way. Be able to review things and add new information
 
 I hope, if you have landed here, this document can be of any use to you.
 
+To experiment with recent developments in generative language models based on the 'transformer' architecture, instead of writing all the content myself as I did for previous series related to *InfoSec* certification (i.e., [CEH](https://binarycoders.dev/2020/06/07/ceh-i-preamble-and-index/)), I am going to execute the following steps:
+
+- [x] Generate the content using ChatGPT, and a few manual modifications based on common sense or obvious missing content.
+- [ ] Answer a collection of exam questions using solely the generated content.
+- [ ] Edit and modify the content to add any extra information missing based on the reviewed questions.
+- [ ] Continue the reviewing process till a satisfaying number of questions can be answered solely based on these notes.
+
+Why doing it in this way?
+
+- First, because I think is a more fun way to study the CompTIA Security+ SY0-601 material than just trying to brute-force memorise them.
+- Second, becasue I am curious about how to work with generative language models, and how to interact with them to improve performance. And, I think that having a goal and trying to achieve it can help me to improve my skills interacting with such a models.
+- Finally, becasue... let's see what happens. Is it possible that this needs to be re-written manually as I did for the CEH contents? yes. Is is possible with the help of the generative language model I can finish a taskthat it will take me a few months in a few weeks? Yes. Is it possible the generated content needs no review? Yes. And, this is why this is the final reason, just pure curiosity.
+
 ## Exam Objectives (Domains)
 
 | Domain                                    | Percentage of Examination |
