@@ -1,0 +1,40 @@
+name: Generate PDF Release
+
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+  generate-pdf-release:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+      
+    - name: Generate PDF
+      run: python security-plus-all.py
+      
+    - name: Create release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ github.ref }}
+        release_name: Release ${{ github.ref }}
+        body: |
+          Automated release generated from markdown files.
+        draft: false
+        prerelease: false
+        files: |
+          security-plus-sy0-601-all.pdf
