@@ -3,7 +3,7 @@ name: Generate PDF Release
 on:
   push:
     tags:
-      - '*'
+      - 'v*'
   workflow_dispatch: # Allow manual triggering
 
 jobs:
